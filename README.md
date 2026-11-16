@@ -1,1 +1,3 @@
 # Hawkings
+
+## https://www.researchgate.net/publication/417947683_A_Tunneling_Mechanism_for_Information_Transfer_via_White_Hole_Remnants_Completing_the_Entanglement_Island_Prescription_for_the_Black_Hole_Information_Paradox
